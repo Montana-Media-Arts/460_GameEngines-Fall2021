@@ -1,10 +1,20 @@
 ---
-title: Asset Store
+title: Create Project
 module: 2
 
 ---
 
-# Asset Store 
+# Create Project
+
+The first thing we want to do is create a new project in Unity.
+
+<p>Click on Projects.</p>
+<ol>
+<li>Click <b>New</b>.</li>
+<li>In the <b>Create New Project</b>, click <b>2D Template</b>.</li>
+<li>In the <b>Project Name</b>, enter <b>PlaygroundGame</b> (or whatever you want)</li>
+<li>Click <b>Create</b>.</li>
+</ol>
 
 One of the things of which I want you to be aware of is Unity's Asset store.  There are many free and paid assets that you can use in your project.  The one we will use is the Unity Playground.
 

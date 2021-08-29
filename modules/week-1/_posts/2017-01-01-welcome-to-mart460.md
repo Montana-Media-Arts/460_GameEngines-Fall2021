@@ -21,7 +21,7 @@ module: 1
 <p>At the conclusion of this week, students should:</p>
 <ul>
 <li>Ensure that a GitHub account repository has been created.</li>
-<li>Be introduced to the Unity Game Engine.</li>
+<li>Be introduced to Stencyl and the Unity Game Engine.</li>
 <li>Add the Unity Playground.</li>
 </ul>
 </div>

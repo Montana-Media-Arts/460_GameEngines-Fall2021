@@ -40,11 +40,5 @@ jotted: false
 <li>In the <b>Add Modules</b> window, select either <b>Windows Build Support</b> or <b>Mac Build Support</b>.</li>
 <li>Click <b>Done</b>.</li>
 </ol>
-<p>Wait for the install to complete and then click on Projects.</p>
-<ol>
-<li>Click <b>New</b>.</li>
-<li>In the <b>Create New Project</b>, click <b>2D Template</b>.</li>
-<li>In the <b>Project Name</b>, enter <b>PlaygroundGame</b> (or whatever you want)</li>
-<li>Click <b>Create</b>.</li>
-</ol>
+
 </div>

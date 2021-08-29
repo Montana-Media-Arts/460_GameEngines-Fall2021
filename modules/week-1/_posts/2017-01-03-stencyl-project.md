@@ -19,11 +19,11 @@ module: 1
 
 <div id="Tutorial" class="tabcontent">
 There are two crash courses that will help explain how to work with Stencyl.  The nice part is that the concepts we learn here especially the terminology will carry through in any game design platform we use particularly in Unity.
-
+<p>&nbsp;</p>
 Here is crash course 1. <a href="http://www.stencyl.com/help/viewArticle/143" target="_new">Crash Course 1</a>
-
+<p>&nbsp;</p>
 Here is crash course 2. <a href="http://www.stencyl.com/help/view/crash-course-invaders-1/" target="_new">Crash Course 2</a>
-
+<p>&nbsp;</p>
 Please complete them both so you can create something!
 
 </div>

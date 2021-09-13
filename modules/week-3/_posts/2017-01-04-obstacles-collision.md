@@ -1,6 +1,6 @@
 ---
 title: Obstacles and Collision
-module: 2
+module: 3
 ---
 
 # Obstacles

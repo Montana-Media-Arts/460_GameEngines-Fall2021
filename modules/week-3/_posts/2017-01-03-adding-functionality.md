@@ -1,6 +1,6 @@
 ---
 title: Adding Functionality
-module: 2
+module: 3
 ---
 
 

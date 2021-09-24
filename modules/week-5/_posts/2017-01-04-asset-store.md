@@ -1,6 +1,6 @@
 ---
 title: Asset Store
-module: 3
+module: 5
 ---
 
 # Access the Asset Store

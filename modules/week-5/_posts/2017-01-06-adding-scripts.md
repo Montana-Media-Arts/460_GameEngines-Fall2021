@@ -1,6 +1,6 @@
 ---
 title: Adding Scripts
-module: 3
+module: 5
 ---
 
 # Adding Scripts to Project

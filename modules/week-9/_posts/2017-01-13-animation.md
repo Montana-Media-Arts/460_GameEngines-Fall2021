@@ -6,7 +6,11 @@ jotted: true
 
 # Animator
 
-To play animation on a GameObject, Unity uses a component called an Animator:
+This video is a more generic with SunnyLand.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hkaysu1Z-N8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+To play animation on a GameObject, Unity uses a component called an Animator:  (This uses the Ruby tutorial)
 
 1. Go into Prefab mode for the Robot Prefab (reminder: double-click on the Prefab in the Project window or on the arrow on the right of your Robot in the Hierarchy window)
 2. In the Inspector, click the Add Component button and search for the Animator component.  

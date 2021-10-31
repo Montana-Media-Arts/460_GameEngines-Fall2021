@@ -6,4 +6,4 @@ jotted: false
 
 # Weekly Conclusions
 
-This week finished the work that was done over the past few weeks working with scripting and learning how to put a complete project together. Now, let's move toward 3D game development.
+This week was all about Minecraft and Salesforce again. These concepts can hopefully translate into other learning modules or opportunities in the future. How does one learn most effectively?  How do we make it "fun"?  That is the question.

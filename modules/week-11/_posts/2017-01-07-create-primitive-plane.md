@@ -7,46 +7,42 @@ jotted: false
 
 # Primitive Plane
 
-Now, let's get started and create a game board or play field.
+1. After you create a new **Project** with a **3D Template**, create the field.
 
-You're going to do this by using a primitive plane. 
+2. Now, let's get started and create a game board or play field.
 
-Primitives are simple pieces of geometry which come bundled with the Unity editor. 
+3. You're going to do this by using a **primitive plane**. 
 
-They can be useful for creating simple prototypes without the need of an artist. 
+4. Primitives are simple pieces of geometry which come bundled with the Unity editor. 
 
-Planes are two-dimensional surfaces. 
+5. They can be useful for creating simple prototypes without the need of an artist. 
 
-In this case, you'll be using a plane as the ground for your game. 
+6. Planes are **two-dimensional** surfaces. 
 
-All objects in your scene are GameObjects including the plane. 
+7. In this case, you'll be using a plane as the ground for your game. 
 
-To create a plane GameObject, either go to the menu and select GameObject, 3D Object > Plane, or you can go to the Hierarchy and use the create menu. 
+8. To create a plane GameObject, either go to the menu and select GameObject, **3D Object** > **Plane**, or you can go to the Hierarchy and use the create menu. 
 
-Next, rename your plane GameObject, Ground. 
+9. Next, **rename** your plane **GameObject**, **Ground**. 
 
-You can do this by either selecting the GameObject and using the Enter key to allow editing, or by the title box in the inspector. 
+10. You can do this by either selecting the **GameObject** and using the **Enter** key to allow editing, or by the **title** box in the **inspector**. 
 
-Type in the new name and press Enter or Return to confirm this change. 
+11. Type in the new name and press **Enter** or **Return** to confirm this change. 
 
-Then, select the vertical ellipses menu in the upper right and reset the Transform component. 
+12. Then, select the vertical ellipses menu in the upper right and **reset** the **Transform** component. 
 
-This will place the GameObject at the location of 0,0,0 in your scene. 
+13. This will place the GameObject at the location of **0,0,0** in your scene. 
 
-This is known as the origin point of the world. 
+14. This is known as the **origin point** of the world. And this is where all of the coordinates in the scene are calculated from. 
 
-And this is where all of the coordinates in the scene are calculated from. 
+15. Make sure the **Ground GameObject is selected** and the cursor is over your **Scene** view. 
 
-Cool, right? 
+16. Then press **F** to see the entire GameObject in the Scene view. 
 
-Make sure the Ground GameObject is selected and the cursor is over your Scene view. 
+17. You can also select **Frame Selected** in the **Edit** menu. 
 
-Then press F to see the entire GameObject in the Scene view. 
+18. In the scene, you can now see grid lines indicating a plane on the **Y axis**. 
 
-You can also select Frame Selected in the Edit menu. 
-
-In the scene, you can now see grid lines indicating a plane on the Y axis. 
-
-You can use the Grid Settings menu at the top of the scene view to change the axis and opacity. 
+19. You can use the **Grid Settings** menu at the top of the scene view to change the axis and opacity. 
 
 Next, you'll configure the plane for your game.

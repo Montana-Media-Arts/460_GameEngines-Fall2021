@@ -6,13 +6,13 @@ jotted: false
 
 # Player
 
-Now that you've created a playing field for your game, you're ready to create a player GameObject. 
+1. Now that you've created a playing field for your game, you're ready to create a **player GameObject**. 
 
-For this game, that will be a Unity Sphere Primitive. 
+2. For this game, that will be a **Unity Sphere Primitive**. 
 
-To create the sphere, in the Hierarchy, select the Create menu, and then select Sphere. 
+3. To create the sphere, in the **Hierarchy**, select the **Create** menu, and then select **Sphere**. 
 
-Rename the sphere Player. 
+**Rename** the sphere **Player**. 
 
 Reset the Transform to make sure it's at the origin point of the scene, 0,0,0. 
 

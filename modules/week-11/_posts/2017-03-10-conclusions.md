@@ -6,4 +6,4 @@ jotted: false
 
 # Weekly Conclusions
 
-This week we walked through how to create a simple game in Unity 3D.  Nice job!
+This week we worked on Minecraft for ATG/Cognizant
